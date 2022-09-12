@@ -76,15 +76,3 @@ body  {
 .btn:focus {
    filter: brightness(120%);
 }
-
-/* .bottom {
-   background: #fff;
-   height: 5px;
-   width: 200px;
-   border-radius: 4px;
-   position: absolute;
-   bottom: 10px;
-   left: 50%;
-   transform: translateX(-50%);
-}
-*/
