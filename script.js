@@ -102,7 +102,7 @@ const getOperationResultAsString = () => {
 };
 
 const handleOperatorClick = (operation) => {
-   const currentValueString = getValueAsString;
+   const currentValueString = getValueAsString();
 
    if (!valueStringInMemory) {
       valueStringInMemory = currentValueString;
